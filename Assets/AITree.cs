@@ -57,6 +57,9 @@ public class AITree {
                 AITree newTree = new AITree (tempGameState);
                 if (newTree.goodMove) {
                     moves [x, y] = newTree;
+                } else if (gameState.turnOfPlayer == 1) {
+                    moves = null;
+                    goodMove = false;
                 }
                 break;
             case 1:

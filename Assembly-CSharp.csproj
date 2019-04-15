@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{72455525-5ADA-35CE-B18F-9EA5A91CCBC2}</ProjectGuid>
+    <ProjectGuid>{288E3504-B33B-8D0D-28C3-6117F087388A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,16 +66,16 @@
     <Compile Include="Assets\MainScript.cs" />
     <Compile Include="Assets\UIController.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/KolkoKrzyzyk/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/KolkoKrzyzyk/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/KolkoKrzyzyk/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/KolkoKrzyzyk/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -258,7 +258,7 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.14f1/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>D:/KolkoKrzyzyk/KółkoKrzyzyk/KolkoKrzyzyk/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.14f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
